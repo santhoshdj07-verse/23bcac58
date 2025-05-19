@@ -1,2 +1,5 @@
 Commit #1
-This commit will be used to create a pull request.
+Created a child branch. The PR will now be created to merge this to the main branch.
+
+Commit #2
+This is used for question 2, the changes will be made to the file on the main branch and will be pulled from the child branch.
